@@ -1,0 +1,15 @@
+C:\workspace\DotNet\bin\Debug\net6.0\EstruturaDoPrograma.exe
+C:\workspace\DotNet\bin\Debug\net6.0\EstruturaDoPrograma.deps.json
+C:\workspace\DotNet\bin\Debug\net6.0\EstruturaDoPrograma.runtimeconfig.json
+C:\workspace\DotNet\bin\Debug\net6.0\EstruturaDoPrograma.dll
+C:\workspace\DotNet\bin\Debug\net6.0\ref\EstruturaDoPrograma.dll
+C:\workspace\DotNet\bin\Debug\net6.0\EstruturaDoPrograma.pdb
+C:\workspace\DotNet\obj\Debug\net6.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\workspace\DotNet\obj\Debug\net6.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DotNet\obj\Debug\net6.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\workspace\DotNet\obj\Debug\net6.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\workspace\DotNet\obj\Debug\net6.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\workspace\DotNet\obj\Debug\net6.0\EstruturaDoPrograma.dll
+C:\workspace\DotNet\obj\Debug\net6.0\ref\EstruturaDoPrograma.dll
+C:\workspace\DotNet\obj\Debug\net6.0\EstruturaDoPrograma.pdb
+C:\workspace\DotNet\obj\Debug\net6.0\EstruturaDoPrograma.genruntimeconfig.cache
